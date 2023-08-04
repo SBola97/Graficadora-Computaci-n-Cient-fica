@@ -1,0 +1,22 @@
+F:\Códigos C#\ViewPort_6617\bin\Debug\ViewPort_6617.exe.config
+F:\Códigos C#\ViewPort_6617\bin\Debug\ViewPort_6617.exe
+F:\Códigos C#\ViewPort_6617\bin\Debug\ViewPort_6617.pdb
+F:\Códigos C#\ViewPort_6617\obj\Debug\ViewPort_6617.csproj.AssemblyReference.cache
+F:\Códigos C#\ViewPort_6617\obj\Debug\ViewPort_6617.csproj.SuggestedBindingRedirects.cache
+F:\Códigos C#\ViewPort_6617\obj\Debug\ViewPort_6617.Form1.resources
+F:\Códigos C#\ViewPort_6617\obj\Debug\ViewPort_6617.Properties.Resources.resources
+F:\Códigos C#\ViewPort_6617\obj\Debug\ViewPort_6617.csproj.GenerateResource.cache
+F:\Códigos C#\ViewPort_6617\obj\Debug\ViewPort_6617.csproj.CoreCompileInputs.cache
+F:\Códigos C#\ViewPort_6617\obj\Debug\ViewPort_6617.exe
+F:\Códigos C#\ViewPort_6617\obj\Debug\ViewPort_6617.pdb
+C:\Universidad\Dev\C#Proj\ViewPort_6617\bin\Debug\ViewPort_6617.exe.config
+C:\Universidad\Dev\C#Proj\ViewPort_6617\bin\Debug\ViewPort_6617.exe
+C:\Universidad\Dev\C#Proj\ViewPort_6617\bin\Debug\ViewPort_6617.pdb
+C:\Universidad\Dev\C#Proj\ViewPort_6617\obj\Debug\ViewPort_6617.csproj.AssemblyReference.cache
+C:\Universidad\Dev\C#Proj\ViewPort_6617\obj\Debug\ViewPort_6617.csproj.SuggestedBindingRedirects.cache
+C:\Universidad\Dev\C#Proj\ViewPort_6617\obj\Debug\ViewPort_6617.Form1.resources
+C:\Universidad\Dev\C#Proj\ViewPort_6617\obj\Debug\ViewPort_6617.Properties.Resources.resources
+C:\Universidad\Dev\C#Proj\ViewPort_6617\obj\Debug\ViewPort_6617.csproj.GenerateResource.cache
+C:\Universidad\Dev\C#Proj\ViewPort_6617\obj\Debug\ViewPort_6617.csproj.CoreCompileInputs.cache
+C:\Universidad\Dev\C#Proj\ViewPort_6617\obj\Debug\ViewPort_6617.exe
+C:\Universidad\Dev\C#Proj\ViewPort_6617\obj\Debug\ViewPort_6617.pdb
